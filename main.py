@@ -102,3 +102,13 @@ plt.figure(1)
 plt.title(u'Сигнал...')
 plt.plot(Time,values)
 plt.show()
+
+
+'''
+from IPython.core.display import Image, display
+display(Image('https://i.ytimg.com/vi/j22DmsZEv30/maxresdefault.jpg', width=1900, unconfined=True))
+'''
+
+'''
+figure(num=None, figsize=(8, 6), dpi=80, facecolor='w', edgecolor='k')
+'''
